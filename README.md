@@ -1,5 +1,5 @@
 # TMA4250_Projects
-Projects from a course in spatial statistics.
+Projects from a course in spatial statistics in cooperation with Elias Klakken Angelsen.
 
 Project 1: Stationary random fields, covariance functions (including Matérn and powered exponential), semi-variograms and kriging. 
 
